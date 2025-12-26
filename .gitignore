@@ -1,0 +1,9 @@
+# exclude all files in build directory
+/build/*
+# except .gitkeep
+!/build/.gitkeep
+.vscode# exclude all files in build directory
+/build/*
+# except .gitkeep
+!/build/.gitkeep
+.vscode
